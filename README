@@ -1,0 +1,4 @@
+// FULL README IS COMING
+
+This small tool is acting as an "oscam-TCP-DVBAPI"-server and mediating between gbox UDP-Netclient and any TCP-DVBAPI able client
+-> so you can use VDR with lates gbox.net versions!
